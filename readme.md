@@ -33,7 +33,7 @@ python3 -m venv env
 * **For Windows:**
 
   ```bash
-  .\env\Scripts\activate
+  ./env/Scripts/activate
   ```
 
 ---
